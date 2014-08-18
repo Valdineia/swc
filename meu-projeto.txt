@@ -4,4 +4,5 @@ No dia 20/08/14 -Abertura do seminário - conferência de abertura
 Ciência aberta: questões em debate
 No dia 21/08/14 - Cidade cidadã e educação aberta e Ferramentas científicas e hardware abertos
 No dia 22/08/14 - Dados cientificos abertos e wikipesquisas e cadernos científicos
-sss
+
+Alterado ok
