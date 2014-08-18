@@ -1,5 +1,10 @@
-Relatorio do Encontro de Ciência Aberta
+Relatório do Encontro de Ciência Aberta
+ - Workshops:
 No dia 19/08/14 - Oficina sobre Métricas Alternativas.
+
+
+Seminários
+
 No dia 20/08/14 -Abertura do seminário - conferência de abertura
 Ciência aberta: questões em debate
 No dia 21/08/14 - Cidade cidadã e educação aberta e Ferramentas científicas e hardware abertos
